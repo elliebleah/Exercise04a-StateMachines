@@ -12,4 +12,4 @@ https://github.com/SebLague/2DPlatformer-Tutorial
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Elikem Bleah
